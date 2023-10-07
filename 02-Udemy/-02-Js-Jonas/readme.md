@@ -16,8 +16,8 @@
 
 ### Pig Game
 
-- [Project-code](https://github.com/HossamGamalElhelw/Mapty)
-- [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
+- [Project-code](https://github.com/HossamGamalElhelw/Pig-Game)
+- [Live Demo](https://hossamgamalelhelw.github.io/Pig-Game/)
 
 ### Bankist
 
