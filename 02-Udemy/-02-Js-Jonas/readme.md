@@ -42,4 +42,4 @@
 
 [Course-Link](https://www.udemy.com/share/101WeY3@xmnsb59iTNrN6TaIIDEDa1Q0Vg8Hb0E0ZtwumqXSbLoxRr_RBMQMvd49sEiTKVcl1w==/)<br>
 
-![Certificate](https://www.udemy.com/certificate/UC-9746ed05-e904-4b80-9be1-59ee944c4aa7/)
+[Certificate](https://www.udemy.com/certificate/UC-9746ed05-e904-4b80-9be1-59ee944c4aa7/)
