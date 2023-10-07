@@ -6,8 +6,6 @@
 ### The Aim of this internship
 - <a href="#Fundamentals">Learn Programing Fundamentals ,HTMl and CSS </a>
 - <a href="#MERN">Learn MERN Stack</a>
-- <a href="#AWS">Learn How to Deploy your web applications with Cloud Provider (AWS)</a>
-- <a href="#serverless">Learn How to Make serverless web applications</a>
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20All%20Courses-%2B200h-blue">
 <br>
