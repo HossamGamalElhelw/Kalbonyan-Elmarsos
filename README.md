@@ -18,7 +18,6 @@
 <!-- Fundamentals -->
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals ,HTMl and CSS
-
 ![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 - ## Programming foundations path and HTML and CSS
@@ -42,7 +41,6 @@
 #
 - - - -
 <!-- MERN -->
-
 <span id="MERN"></span>
 # Front-end
 ![100%](https://progress-bar.dev/100/?title=Done)
