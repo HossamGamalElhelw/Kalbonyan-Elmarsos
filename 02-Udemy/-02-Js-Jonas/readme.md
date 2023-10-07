@@ -31,8 +31,8 @@
 
 ### Mapty
 
-- [Project-code](./Projects/Mapty)
-- [Live Demo]()
+- [Project-code][Mapty]((https://github.com/HossamGamalElhelw/Mapty))
+- [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
 
 ### Forkify
 
