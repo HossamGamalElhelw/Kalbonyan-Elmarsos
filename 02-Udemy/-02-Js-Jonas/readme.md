@@ -19,34 +19,27 @@
 - [Project-code](https://github.com/HossamGamalElhelw/Pig-Game)
 - [Live Demo](https://hossamgamalelhelw.github.io/Pig-Game/)
 
+### Bankist Site
+
+- [Project-code](https://github.com/HossamGamalElhelw/Advanced-DOM-Bankist)
+- [Live Demo](https://hossamgamalelhelw.github.io/Advanced-DOM-Bankist/)
+
+### Mapty
+
+- [Project-code](https://github.com/HossamGamalElhelw/Mapty)
+- [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
+
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
 - [Live Demo]()
-
-### Bankist Site
-
-- [Project-code](./Projects/Bankist-Site)
-- [Live Demo]()
-
-### Mapty
-
-- [Project-code][Mapty]((https://github.com/HossamGamalElhelw/Mapty))
-- [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
 
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
 - [Live Demo]()
 
----
 
-## Code
+[Course-Link](https://www.udemy.com/share/101WeY3@xmnsb59iTNrN6TaIIDEDa1Q0Vg8Hb0E0ZtwumqXSbLoxRr_RBMQMvd49sEiTKVcl1w==/)<br>
 
-[Code](Code)
-
----
-
-[Course-Link](https://www.udemy.com/course/the-complete-javascript-course/)<br>
-
-![Certificate](https://via.placeholder.com/468x300?text=Certificate+Here)
+![Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9746ed05-e904-4b80-9be1-59ee944c4aa7.pdf)
