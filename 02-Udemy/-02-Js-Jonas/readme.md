@@ -2,7 +2,7 @@
 
 ## Challenges
 
-- [x]` Done ` [JavaScript Fundamentals – Part 1 ](./Challenges/JavaScript%20Fundamentals%20%E2%80%93%20Part%201/)
+- [x] ` Done `[JavaScript Fundamentals – Part 1 ](./Challenges/JavaScript%20Fundamentals%20%E2%80%93%20Part%201/)
 - [x] ` Done `[JavaScript Fundamentals – Part 2](./Challenges/JavaScript%20Fundamentals%20%E2%80%93%20Part%202/)
 - [x] ` Done `[Developer Skills & Editor Setup ](./Challenges/Developer%20Skills%20%26%20Editor%20Setup/)
 - [x] ` Done `[JavaScript in the Browser: DOM and Events](./Challenges/JavaScript%20in%20the%20Browser%20DOM%20and%20Events/)
@@ -16,7 +16,7 @@
 
 ### Pig Game
 
-- [Project-code]((https://github.com/HossamGamalElhelw/Mapty)
+- [Project-code]([Mapty](https://github.com/HossamGamalElhelw/Mapty))
 - [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
 
 ### Bankist
